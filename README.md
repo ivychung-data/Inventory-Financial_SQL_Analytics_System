@@ -312,7 +312,7 @@ Business Impact: Helps prioritize monitoring of high-value inventory, reducing r
 ## Key takeaways
 
 ### Advanced SQL Application
-= Demonstrated proficiency in Oracle SQL, including multi-table joins, aggregations, conditional filtering, date functions, and transaction control.
+- Demonstrated proficiency in Oracle SQL, including multi-table joins, aggregations, conditional filtering, date functions, and transaction control.
 
 ### Relational Database Expertise
 - Applied normalized schema design principles, leveraging primary keys, foreign keys, and junction tables to maintain data integrity and support scalable querying.
