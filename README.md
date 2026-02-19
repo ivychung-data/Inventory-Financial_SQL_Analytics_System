@@ -1,8 +1,8 @@
 
-# Husky Corp Inventory & Financial SQL Analytics System
+# Husky Corp Operational & Financial Performance Analytics | SQL
 
 ## Project Name:
-Inventory & Financial SQL Analytics System
+Husky Corp Operational & Financial Performance Analytics
 
 ---
 
